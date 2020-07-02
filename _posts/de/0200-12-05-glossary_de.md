@@ -9,7 +9,7 @@ category: beginner
 Glossar 
 ============
 
-> Dieses Glossar wird gerade aktualisiert und wurde aus mehreren anderen Quellen inklusive des [OpenStreetMap Wiki](http://wiki.openstreetmap.org/wiki/Main_Page) und einer Anleitung, die von Will Skora geschrieben wurde, erstellt. Helfen Sie uns ruhig, es zu aktualisieren, indem Sie [CONTRIBUTING.md](https://github.com/hotosm/learnosm/blob/gh-pages/CONTRIBUTING.md) durchsehen, um herauszufinden, wie man zur Seite beitragen kann. 
+> Dieses Glossar wird gerade aktualisiert und wurde aus mehreren anderen Quellen inklusive des [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Main_Page) und einer Anleitung, die von Will Skora geschrieben wurde, erstellt. Helfen Sie uns ruhig, es zu aktualisieren, indem Sie [CONTRIBUTING.md](https://github.com/hotosm/learnosm/blob/gh-pages/CONTRIBUTING.md) durchsehen, um herauszufinden, wie man zur Seite beitragen kann. 
 > Überprüft am 2015-07-18  
 
 Um dieses Glossar einfach zu durchsuchen, nutzen Sie die Suchfunktion in Ihrem Browser, indem Sie die Steuerungstaste drücken, während Sie die f-Taste drücken (normalerweise beschrieben als **Strg+f**)  
@@ -33,7 +33,7 @@ Um dieses Glossar einfach zu durchsuchen, nutzen Sie die Suchfunktion in Ihrem B
 
 **Ausschnitt** : [OSM Daten Überblick](/de/osm-data/data-overview/) A großer OSM Datensatz für ein bestimmtes Gebiet (wie ein Bundesland, einen Staat oder ein geographisches Gebiet)
 
-**[Field Papers](/de/mobile-mapping/field-papers/)**: Ist eine webbasiertes Anwendung um einfach druckbare Karten für jeden beliebigen Ort der Welt herzustellen, auf denen anschließend Notizen gemacht werden können. Siehe  [http://fieldpapers.org/](http://fieldpapers.org/)  für weitere Informationen. 
+**[Field Papers](/de/mobile-mapping/field-papers/)**: Ist eine webbasiertes Anwendung um einfach druckbare Karten für jeden beliebigen Ort der Welt herzustellen, auf denen anschließend Notizen gemacht werden können. Siehe  [fieldpapers.org](http://fieldpapers.org/)  für weitere Informationen. 
 
 **FOD : Fundamental Operational Database** ; Daten, die zu einer bestimmten Aktivierung gehören, etwa Gesundheitszentren, Schulen, Wasserstellen, Überflutungsgebiete, Gebäudeschäden usw.
 
@@ -45,7 +45,7 @@ Um dieses Glossar einfach zu durchsuchen, nutzen Sie die Suchfunktion in Ihrem B
 
 **[JOSM](https://josm.openstreetmap.de/)** "Dschossm" ausgesprochen, ein in Java programmierter OpenStreetMap Editor . 
 
-**[Ebenen](http://wiki.openstreetmap.org/wiki/Layer)**: Eine Sammlung von geographischen Daten die auf einer Slippy Map dargestellt wird (meist wird als Layer auch die Darstellung aus aneinandergesetzten Kacheln auf einer solchen Karte bezeichnet).
+**[Ebenen](https://wiki.openstreetmap.org/wiki/Layer)**: Eine Sammlung von geographischen Daten die auf einer Slippy Map dargestellt wird (meist wird als Layer auch die Darstellung aus aneinandergesetzten Kacheln auf einer solchen Karte bezeichnet).
 
 **NGO : Non Govermental Organisation / Agency** ; Nicht-Regierungsorganisation. Ursprünglich eine wohltätige Gruppe von Bürgern, die sich auf lokaler, nationaler oder internationaler Ebene zusammengeschlossen hat.  
 
@@ -55,13 +55,13 @@ Um dieses Glossar einfach zu durchsuchen, nutzen Sie die Suchfunktion in Ihrem B
 
 **POC : Point of Contact** ; Ansprechpartner, an die sich bei allen Fragen und Problemen gewendet werden kann.
 
-**[Relation](http://wiki.openstreetmap.org/wiki/DE:Relationen)**: Eine Relation ist eines der grundlegenden Datenelemente, auf denen OpenStreetMap aufgebaut ist. Eine Relation besteht aus einem oder mehreren Attributen (engl. "tags") und einer sortierten Liste von Datenelementen. Als Datenelement können Punkte, Linien und Relationen in die Relationsliste aufgenommen werden. Für die unterschiedlichen [Relationstypen](http://wiki.openstreetmap.org/wiki/DE:Types_of_relation) gibt es im Wiki Beispiele. 
+**[Relation](https://wiki.openstreetmap.org/wiki/DE:Relationen)**: Eine Relation ist eines der grundlegenden Datenelemente, auf denen OpenStreetMap aufgebaut ist. Eine Relation besteht aus einem oder mehreren Attributen (engl. "tags") und einer sortierten Liste von Datenelementen. Als Datenelement können Punkte, Linien und Relationen in die Relationsliste aufgenommen werden. Für die unterschiedlichen [Relationstypen](https://wiki.openstreetmap.org/wiki/DE:Types_of_relation) gibt es im Wiki Beispiele. 
 
 **Render** : Daten in ein Bild verwandeln; Eine Karte besteht aus gerenderten Daten.
 
 **SBTF : Stand-By Task-Force** ; eine Organisation, die digitale Freiwillige koordiniert, um ein Netzwerk von schnell zur Verfügung stehenden und trainierten Menschen zu bieten, das in Krisensituationen eingesetzt werden kann.
 
-**Slippy Map** : Genau das, was Sie auf http://www.openstreetmap.org sehen! Sie besteht aus einer Kartenebene und einer Softwarebibliothek, die die Interaktion mit dem Betrachter wie Vergrößern und Verschieben regelt.
+**Slippy Map** : Genau das, was Sie auf https://www.openstreetmap.org sehen! Sie besteht aus einer Kartenebene und einer Softwarebibliothek, die die Interaktion mit dem Betrachter wie Vergrößern und Verschieben regelt.
 
 **Stylesheet** : In meist ist damit eine Textdatei gemeint, die bestimmt, welche Objekte (z.B. welche Straßen) dargestellt werden und wie sie auf der Karte erscheinen (Farbe, Breite).
 
@@ -71,11 +71,11 @@ Um dieses Glossar einfach zu durchsuchen, nutzen Sie die Suchfunktion in Ihrem B
 
 **Kachel = Tile** : Ein kleines Bild (256x256 Pixel) von gerenderten Kartendaten.
 
-**[Linie](http://wiki.openstreetmap.org/wiki/DE:Way)**: eine sortierte Liste von Punkten, die meist mindestens ein Attribut besitzt oder Bestandteil einer Relation ist. Linien können aus 2 bis 2000 Punkten bestehen, obwohl es auch ungültige Linien mit keinem oder einem Punkt in der Datenbank gibt. Eine Linie kann offen oder geschlossen sein.  
+**[Linie](https://wiki.openstreetmap.org/wiki/DE:Way)**: eine sortierte Liste von Punkten, die meist mindestens ein Attribut besitzt oder Bestandteil einer Relation ist. Linien können aus 2 bis 2000 Punkten bestehen, obwohl es auch ungültige Linien mit keinem oder einem Punkt in der Datenbank gibt. Eine Linie kann offen oder geschlossen sein.  
 
-* Eine geschlossene Linie ![closedwayimage](http://wiki.openstreetmap.org/w/images/thumb/e/ed/Mf_closed_way.svg/20px-Mf_closed_way.svg.png) ist eine, deren letzter und erster Punkt übereinstimmen. Geschlossene Linien können als Linienzug, als Fläche oder als beides zugleich interpretiert werden. 
+* Eine geschlossene Linie ![closedwayimage](https://wiki.openstreetmap.org/w/images/thumb/e/ed/Mf_closed_way.svg/20px-Mf_closed_way.svg.png) ist eine, deren letzter und erster Punkt übereinstimmen. Geschlossene Linien können als Linienzug, als Fläche oder als beides zugleich interpretiert werden. 
 
-* Eine offene Linie ![openwayimage](http://wiki.openstreetmap.org/w/images/thumb/2/2a/Mf_way.svg/20px-Mf_way.svg.png) beschreibt ein linienförmiges Objekt, bei dem Anfang und Ende verschieden sind. Beispiele sind viele Straßen, Flüsse und Bahnlinien.
+* Eine offene Linie ![openwayimage](https://wiki.openstreetmap.org/w/images/thumb/2/2a/Mf_way.svg/20px-Mf_way.svg.png) beschreibt ein linienförmiges Objekt, bei dem Anfang und Ende verschieden sind. Beispiele sind viele Straßen, Flüsse und Bahnlinien.
  
 ### Beachte bei den OSM Bezeichnungen
 
